@@ -12,7 +12,9 @@ STOCK-DATA
 ### 数据说明
 
 ```
--- index
+.
+  \
+   |-- index
    |     \
    |      |-- s_sh000001.csv
    |      |-- s_sz399001.csv
