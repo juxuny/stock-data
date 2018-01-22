@@ -3,7 +3,7 @@ STOCK-DATA
 
 ### 数据收集
 
-[https://github.com/juxuny/statistics]
+收集代码[https://github.com/juxuny/statistics]
 
 每天一个压缩包，16:00更新
 
