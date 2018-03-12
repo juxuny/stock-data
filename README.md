@@ -1,6 +1,9 @@
 STOCK-DATA
 =================
 
+### update
+2018-03-12 停电了，缺少的数据稍后再想办法补全
+
 ### 数据收集
 
 收集代码[https://github.com/juxuny/statistics]
